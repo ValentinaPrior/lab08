@@ -23,3 +23,19 @@ if (isNumber==true)
     let answer4= "Member disocunt applied";
     console.log(answer4);
 }
+
+//QUESTION FIVE
+let startValue=100;
+
+if (startValue>0)
+{
+    console.log("startValue is positive");
+}
+else if (startValue<0)
+{
+    console.log("startValue is negative");
+}
+else
+{
+    console.log("startValue is zero");
+}
