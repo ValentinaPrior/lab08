@@ -128,4 +128,22 @@ else
     console.log(answer101);
 }
     
+//QUESSTION ELEVEN
+    let score=91;
+ if (score>=90)
+{
+    let answer11="Grade A";
+    console.log(answer11);
+}
+else if (score>=80 && score<=89)
+{
+    let answer112="Grade B";
+    console.log(answer112);
+}
+else
+{
+    let answer113="Grade C";
+    console.log(answer113);
+
+}
 
