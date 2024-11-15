@@ -97,3 +97,23 @@ if (num>0 && num<100)
     let answer8="The number is within range";
     console.log(answer8);
 }
+
+//QUESTION NINE
+let hasCar=true;
+let hasLicense=true;
+let hasInsurance=true;
+
+if (hasCar==true && hasLicense==true && hasInsurance==true)
+{
+    let answer91= "You can drive legally";
+    console.log(answer91);
+}
+else
+{
+    let answer92= "Check your driving eligibility";
+    console.log(answer92);
+}
+
+//QUESTION TEN
+let num10= 21;
+
