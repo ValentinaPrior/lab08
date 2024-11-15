@@ -115,5 +115,17 @@ else
 }
 
 //QUESTION TEN
-let num10= 21;
+let num10= 20;
+
+if( num10%2==0)
+{
+    let answer10= "The number is even";
+    console.log(answer10);
+}
+else
+{
+    let answer101= "The number is odd";
+    console.log(answer101);
+}
+    
 
