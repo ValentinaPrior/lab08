@@ -12,6 +12,14 @@ console.log(color, number);
 let RollNumber=15;
 if (RollNumber>10)
 {
-    let answer= "The RollNumber is greater than 10"
-    console.log(answer);
+    let answer3= "The RollNumber is greater than 10"
+    console.log(answer3);
+}
+
+//QUESTION FOUR
+let isNumber=true;
+if (isNumber==true)
+{
+    let answer4= "Member disocunt applied";
+    console.log(answer4);
 }
