@@ -1,7 +1,7 @@
 //QUESTION ONE
-let name= "Valentina";
+let username= "Valentina";
 let age= 18;
-console.log(name,age);
+console.log(username,age);
 
 // QUESTION TWO
 let color= "orange";
@@ -29,13 +29,61 @@ let startValue=100;
 
 if (startValue>0)
 {
-    console.log("startValue is positive");
+     let answer5="startValue is positive";
+    console.log(answer5);
 }
 else if (startValue<0)
 {
-    console.log("startValue is negative");
+     let answer52= "startValue is negative";
+    console.log(answer52);
 }
 else
 {
-    console.log("startValue is zero");
+    let answer53="startValue is zero";
+    console.log(answer53);
 }
+
+//QUESTION SIX
+let a=14;
+let b=14;
+
+if (a==b)
+{
+    let answer61= "a and b are equal.";
+    console.log(answer61);
+}
+if (a===b)
+{
+    let answer62="a and b are equal";
+    console.log(answer62);
+}
+if (a!=b)
+{
+    let answer63="a does not equal b";
+    console.log(answer63);
+}
+if (a>b)
+{
+    let answer64=" a is greater than b";
+    console.log(answer64);
+}
+if (a<b)
+{
+    let answer65= "a is less than b";
+    console.log(answer65);
+}
+if (a>=b)
+{
+    let answer66="a is greater than or equal to b";
+    console.log(answer66);
+}
+if (a<=b)
+{
+    let answer67="a is less than or equal to b";
+    console.log(answer67);
+}
+
+//QUESTION SEVEN
+let firstName="Valentina";
+let lastName="Prior";
+let userage=18;
