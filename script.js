@@ -2,3 +2,9 @@
 let name= "Valentina";
 let age= 18;
 console.log(name,age);
+
+// QUESTION TWO
+let color= "orange";
+let number= 14;
+
+console.log(color, number);
