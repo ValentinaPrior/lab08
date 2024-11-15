@@ -86,4 +86,6 @@ if (a<=b)
 //QUESTION SEVEN
 let firstName="Valentina";
 let lastName="Prior";
-let userage=18;
+let userAge=18;
+
+console.log("Hello,",firstName,lastName,"you are", age, "years old" );
