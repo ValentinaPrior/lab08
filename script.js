@@ -89,3 +89,11 @@ let lastName="Prior";
 let userAge=18;
 
 console.log("Hello,",firstName,lastName,"you are", age, "years old" );
+
+//QUESTION EIGHT
+let num= 50;
+if (num>0 && num<100)
+{
+    let answer8="The number is within range";
+    console.log(answer8);
+}
